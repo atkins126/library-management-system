@@ -1,5 +1,4 @@
 LIBRARY MANAGEMENT SYSTEM
-![image](https://github.com/user-attachments/assets/fc320da3-6188-43b8-8c9d-7dc141d41e1f)
 
 Login Page
 ![image](https://github.com/user-attachments/assets/e798fe16-826f-462a-9353-b55b06682da1)
