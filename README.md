@@ -6,6 +6,9 @@ Login Page
 Admin Dashboard
 ![image](https://github.com/user-attachments/assets/c73e0708-6ed0-489e-a96e-d27501efe428)
 
+Member Dashboard
+![image](https://github.com/user-attachments/assets/4a88a73c-b452-4d4a-b724-6f1e87f19758)
+
 Books Management
 ![image](https://github.com/user-attachments/assets/73d5938c-38a0-4301-9055-242ec6df07f9)
 
